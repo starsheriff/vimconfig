@@ -25,7 +25,7 @@ set encoding=utf-8
 
 " colorschemes
 set background=dark
-let g:solarized_termcolors=256
+"let g:solarized_termcolors=256
 colorscheme solarized
 nnoremap <leader>cl :set background=light<CR> :colorscheme solarized<CR>
 nnoremap <leader>cd :set background=dark<CR> :colorscheme solarized<CR>
